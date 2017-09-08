@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designmode.iml" filepath="$PROJECT_DIR$/.idea/modules/designmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designmode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/designmode_main.iml" group="designmode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designmode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/designmode_test.iml" group="designmode" />
+    </modules>
+  </component>
+</project>
